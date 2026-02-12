@@ -1,4 +1,4 @@
-# 📊 Magist Database Analysis – SQL Business Case Study
+# 📊 Magist database analysis – SQL business case study
 
 This repository contains a complete SQL-based exploration and business analysis of the Magist e-commerce marketplace database.
 
